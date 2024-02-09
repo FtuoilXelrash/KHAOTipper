@@ -8,7 +8,7 @@ A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron'
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="Quack.jpg">
  <source media="(prefers-color-scheme: light)" srcset="Quack.jpg">
- <img alt="YOUR-ALT-TEXT" src="Quack.jpg">
+ <img alt="YOUR-ALT-TEXT" src="KhaoTipper.jpg">
 </picture>
 
 
