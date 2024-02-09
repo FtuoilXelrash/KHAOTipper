@@ -1,0 +1,10 @@
+PluginCore = 44, 44, 679, 489, 
+Hub = 176, 176, 792, 621, 
+Vars = 132, 132, 767, 577, 
+clsViewHandler = 132, 132, 748, 577, Z
+clsControlHandler = 198, 198, 814, 643, 
+clsHooks = 154, 154, 750, 599, 
+clsCharStats = 66, 66, 682, 511, 
+RegOp = 0, 0, 0, 0, C
+Timers = 44, 44, 660, 489, , 22, 22, 638, 467, C
+clsWorldFilter = 22, 22, 657, 467, 
