@@ -14,9 +14,9 @@ A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron'
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="KhaoTipper.jpg">
- <source media="(prefers-color-scheme: light)" srcset="KhaoTipper.jpg">
- <img alt="YOUR-ALT-TEXT" src="KhaoTipper.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="tipped_pack_cow.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="tipped_pack_cow.jpg">
+ <img alt="YOUR-ALT-TEXT" src="tipped_pack_cow.jpg">
 </picture>
 
 
