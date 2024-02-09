@@ -22,6 +22,7 @@ A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron'
 
 # Features include:
 
+* Tips cows to complete the Cow Tipper quest
 * Squelch red client status messages
 * Anti Client idle
 * Logout on death
