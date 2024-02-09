@@ -22,10 +22,11 @@ A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron'
 
 # Features include:
 
+* Squelch red client status messages
 * Anti Client idle
 * Logout on death
-* Play sound on death
-* Squelch red client status messages
+* Play sound when tipping completes
+
 
 
 
